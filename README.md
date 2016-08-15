@@ -18,4 +18,4 @@ React native 创建的仿 “财经头条” app，实现Listview展示、九宫
 >* 进入文件夹中： node_modules/react-native-sudoku-grid ，将里面的gridCell.js和sudokuGrid.js文件替换成changeJS文件夹中的文件<br> 
 
 
-* 家里开发的时间法律框架的算了
+
